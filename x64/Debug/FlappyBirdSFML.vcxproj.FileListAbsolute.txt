@@ -1,0 +1,4 @@
+E:\Projects\C++\FlappyBirdSFML — копия\x64\Debug\FlappyBirdSFML.exe
+E:\Projects\C++\FlappyBirdSFML — копия — копия\x64\Debug\FlappyBirdSFML.exe
+E:\Projects\C++\FlappyBirdSFML — не ртогвй\x64\Debug\FlappyBirdSFML.exe
+E:\Projects\C++\FlappyBirdSFML\x64\Debug\FlappyBirdSFML.exe
